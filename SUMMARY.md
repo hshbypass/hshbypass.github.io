@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Docker](README.md)
+* [README](README.md)
+* [Docker](Docker.md)
+
